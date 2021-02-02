@@ -28,7 +28,7 @@ The requirements are:
 
 To run this project, it is needed to access the public API Open Weather Map (api.openweathermap.org)
 
-- It is possible to change the forecast weather location by changin the latitude and longitude attributes defined by the variables "lat" and "lon" located at lines 53 and 54 respectively. The defaul location is João Pessoa (-7.1195, -34.845).
+- It is possible to change the forecast weather location by changing the latitude and longitude attributes defined by the variables "lat" and "lon" located at lines 53 and 54 respectively. The defaul location is João Pessoa (-7.1195, -34.845).
 
 - The API key is 6641249303ea2ba4d4713bbafed7e716 (already setted)
 
